@@ -1,0 +1,12 @@
+# File: .gitignore
+
+# 1. VENV FOLDERS
+venv/
+.venv/
+env/
+
+# 2. SYSTEM FILES AND IDE
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
